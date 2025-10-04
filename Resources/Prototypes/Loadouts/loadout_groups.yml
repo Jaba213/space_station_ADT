@@ -642,8 +642,9 @@
   - EmergencyNitrogenMime
   - EmergencyOxygenMime
   - LoadoutSpeciesVoxNitrogen
-  - ADTEmergencyMoth
+  # ADT-Loadout-Species-Start
   - ADTEmergencyMothMime
+  # ADT-Loadout-Species-End
 
 - type: loadoutGroup
   id: MusicianJumpsuit
